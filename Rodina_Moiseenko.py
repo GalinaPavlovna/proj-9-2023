@@ -38,5 +38,6 @@ def main():
         if round_number == rounds:
             print("Поздравляем! Вы успешно прошли все раунды!")
 
-if __name__ == "__main__":
-    main()
+
+main()
+
